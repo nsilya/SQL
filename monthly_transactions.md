@@ -27,3 +27,4 @@ SELECT
 FROM Transactions
 GROUP BY TO_CHAR(trans_date, 'YYYY-MM'), country;
 
+
